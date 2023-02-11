@@ -13,7 +13,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-.tea-items{
+.tea-items p{
     background-color:blue;
     display: inline-block;
 }
