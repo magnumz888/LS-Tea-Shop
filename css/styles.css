@@ -2,7 +2,9 @@ h1, h2, p {
 text-align: center;
 }
 body {
-    background-color: rgb(210, 253, 169);
+    background-image: url('https://images.pexels.com/photos/1394841/pexels-photo-1394841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .tea-menu{
     width: 80%;
