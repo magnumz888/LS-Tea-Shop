@@ -22,6 +22,9 @@ body {
     padding-bottom: 20px; */
     padding:20px;
 }
+.established {
+    font-style: italic;
+}
 .tea-items p{
     /* background-color:blue; */
     display: inline-block;
@@ -29,10 +32,10 @@ body {
 .tea-flavor, .collections-flavor{
     text-align: left;
     width:80%;
-    background-color: yellow;
+    /* background-color: yellow; */
 }
 .tea-price, .collections-price{
     text-align: right;
     width:20%;
-    background-color: green;
+    /* background-color: green; */
 }
