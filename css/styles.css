@@ -14,12 +14,16 @@ body {
     margin-right: auto;
 }
 .tea-items p{
-    background-color:blue;
+    /* background-color:blue; */
     display: inline-block;
 }
 .tea-flavor{
     text-align: left;
+    width:50%;
+    background-color: yellow;
 }
 .tea-price{
     text-align: right;
+    width:50%;
+    background-color: green;
 }
