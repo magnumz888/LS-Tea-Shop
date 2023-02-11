@@ -12,12 +12,17 @@ h2 {
 hr{
     height: 2px;
     background-color: rgba(169, 179, 253, 0.676);
+    border-color: rgba(114, 2, 137);
+    box-shadow: -7px 9px 3px 3px rgba(0,0,0,0.75);
+-webkit-box-shadow: -7px 9px 3px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: -7px 9px 3px 3px rgba(0,0,0,0.75);
 }
 body {
     background-image: url('https://images.pexels.com/photos/1394841/pexels-photo-1394841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
+    padding:20px;
 }
 .tea-menu{
     width: 80%;
@@ -31,6 +36,9 @@ body {
     padding-top: 20px;
     padding-bottom: 20px; */
     padding:20px;
+    box-shadow: -7px 9px 3px 3px rgba(0,0,0,0.75);
+-webkit-box-shadow: -7px 9px 3px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: -7px 9px 3px 3px rgba(0,0,0,0.75);
 }
 .established {
     font-style: italic;
@@ -38,6 +46,7 @@ body {
 .tea-items p{
     /* background-color:blue; */
     display: inline-block;
+    margin: 5px 0px;
 }
 .tea-flavor, .collections-flavor{
     text-align: left;
