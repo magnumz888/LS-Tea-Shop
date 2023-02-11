@@ -4,3 +4,8 @@ text-align: center;
 body {
     background-color: rgb(210, 253, 169);
 }
+div {
+    width: 80%;
+    background-color: rgb(210, 253, 169);
+    background-color: orangered;
+}
