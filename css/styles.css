@@ -19,11 +19,11 @@ body {
 }
 .tea-flavor{
     text-align: left;
-    width:50%;
+    width:80%;
     background-color: yellow;
 }
 .tea-price{
     text-align: right;
-    width:50%;
+    width:20%;
     background-color: green;
 }
