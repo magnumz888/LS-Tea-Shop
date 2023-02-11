@@ -3,6 +3,16 @@
 h1, h2, p {
 text-align: center;
 }
+h1{
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
+hr{
+    height: 2px;
+    background-color: rgba(169, 179, 253, 0.676);
+}
 body {
     background-image: url('https://images.pexels.com/photos/1394841/pexels-photo-1394841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
     background-size: cover;
