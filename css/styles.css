@@ -59,3 +59,18 @@ body {
     width:20%;
     /* background-color: green; */
 }
+footer {
+    font-size: 14px;
+}
+a {
+    color:violet;
+}
+a:visited{
+    color:blue;
+}
+a:hover{
+    color:rgb(215, 241, 250);
+}
+a:active{
+    color:yellowgreen;
+}
